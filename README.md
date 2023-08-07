@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/95741246/230609572-fa5dc5ff-67c7-46c1-af70-38bfcf05c5ea.png)
 
 ### Launch the website using [Netlify (Goerli)](https://mellow-sunshine-98566b.netlify.app/).
-### Launch the website using [Netlify (Seploia)](https://vocal-kitten-3613ef.netlify.app/).
+### Launch the website using [Netlify (Sepolia)](https://vocal-kitten-3613ef.netlify.app/).
 
 # Crowdfunding
 ##Delpyed on  https://mellow-sunshine-98566b.netlify.app/
